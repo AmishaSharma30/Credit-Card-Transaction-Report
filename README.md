@@ -1,4 +1,5 @@
 Objective: Developed an interactive Power BI report to analyze credit card transactions and customer data, providing insights into spending patterns.
+
 Insights:
 Overall revenue is 57M.
 Total interest is 8M.
